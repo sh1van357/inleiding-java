@@ -8,8 +8,8 @@ public class H052 extends Applet {
     //variable staaf diagram
     int hoogtegrafiek;
 
-
     public void init() {
+
 
         hoogtegrafiek =70;
         setBackground(Color.gray);
