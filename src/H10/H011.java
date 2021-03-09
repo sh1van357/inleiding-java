@@ -30,6 +30,11 @@ public class H011 extends Applet{
 
         setBackground(Color.pink);
         g.drawString("het hoogste ingevoerde getal: " + Getal,20,50);
+
+        for (int i = 0; i < 10; i++) {
+            System.out.println("Hallo ik ben shivan" + i);
+
+        }
     }
 
     private class Tekstvaklistener implements ActionListener {
